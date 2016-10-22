@@ -1,7 +1,7 @@
 
 
 ## Datos das eleccions galegas 2012 e 2016
-Inclue datos a nivel municipal e anticipos de participación. Estos son os últimos datos que nos enviu a xunta electoral durante o reconto.
+Inclue datos a nivel municipal e anticipos de participación. Estos son os últimos datos que nos enviu a xunta electoral durante o reconto das pasadas eleccións.
 
 
 #### Ficheiros reconto provisional
@@ -26,7 +26,7 @@ Inclue datos a nivel municipal e anticipos de participación. Estos son os últi
 ##### Concellos
 
 *   TXMUNDA11INI.tar.gz Datos iniciais
-*   TXMUNDA11080aq6ma.tar.gz Datos das 18:31/li>
+*   TXMUNDA11080aq6ma.tar.gz Datos das 18:31
 
 #### Ficheiros auxiliares
 
