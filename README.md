@@ -3,6 +3,8 @@
 ## Datos das eleccions galegas 2012 e 2016
 Inclue datos a nivel municipal e anticipos de participación. Estos son os últimos datos que nos enviu a xunta electoral durante o reconto das pasadas eleccións.
 
+Licencia: Dominio público
+
 
 #### Ficheiros reconto provisional
 
